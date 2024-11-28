@@ -2,7 +2,7 @@
   "name": "libsignal-node",
   "version": "2.0.1",
   "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "nstar-y/libsignal",
+  "repository": "kerooo-debug/libsignal",
   "main": "index.js",
   "keywords": [
     "signal",
